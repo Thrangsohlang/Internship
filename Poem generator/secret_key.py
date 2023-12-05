@@ -1,0 +1,2 @@
+openapi_key = "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"
+serpapi_key = "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"
